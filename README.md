@@ -24,6 +24,7 @@
 
 
 **References:**
+
 [1]: Miettinen, K., Mäkelä, M.M., Synchronous Approach in Interactive Multiobjective Optimization, European Journal of Operational Research, 170(3), 909-922, 2006. Available via ScienceDirect. 
 Implementation of NIMBUS in Python available in the DESDEO software framework, in IND-NIMBUS and in WWW-NIMBUS.
 
