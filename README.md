@@ -15,7 +15,7 @@ The decision maker's criteria are provided on the NIMBUS toolbox to arrive at th
 
 The Pareto optimal front using NSGA-III and a patch of the Pareto optimal front obtained using R-NSGA-III are provided in .xlsx file. 
 
-![DTLZ-7](https://github.com/deepanshuIITM/iSOM-NIMBUS/assets/137225940/5fa52971-d8a6-497b-bc3f-b3e2d1434079)
+![DTLZ-7](https://github.com/deepanshuIITM/iSOM-NIMBUS/assets/137225940/3ee47f51-94eb-40e9-9417-aa0957757cf5)
 
 **Fig: MCMD using iSOM-NIMBUS on DTLZ-7 problem**
 
