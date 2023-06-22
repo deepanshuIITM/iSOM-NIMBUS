@@ -1,7 +1,9 @@
 # iSOM-NIMBUS
 ## Interactive Multi-criteria Decision-making on NIMBUS[1] technique using iSOM [4]
 
-Pareto-optimal solutions and NIMBUS points are given in .xlsx file. 
+The DTLZ-7 problem details and MCDM criteria along with Pareto-optimal solutions and NIMBUS points are provided in [4].
+
+The Pareto optimal front using NSGA-III and a patch of the Pareto optimal front obtained using R-NSGA-III are provided in .xlsx file. 
 
 **Preliminary Requirements:**
 
