@@ -1,6 +1,8 @@
 # iSOM-NIMBUS
 ## Interactive Multi-criteria Decision-making on NIMBUS[1] technique using iSOM [4]
 
+Pareto-optimal solutions and NIMBUS points are given in .xlsx file. 
+
 **Preliminary Requirements:**
 
 [1] NIMBUS toolbox [1]: available at https://wwwnimbus.it.jyu.fi/
