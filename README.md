@@ -1,10 +1,6 @@
 # iSOM-NIMBUS
 ## Interactive Multi-criteria Decision-making on NIMBUS[1] technique using iSOM [4]
 
-The DTLZ-7 problem details and MCDM criteria along with Pareto-optimal solutions and NIMBUS points are provided in [4].
-
-The Pareto optimal front using NSGA-III and a patch of the Pareto optimal front obtained using R-NSGA-III are provided in .xlsx file. 
-
 **Preliminary Requirements:**
 
 [1] NIMBUS toolbox [1]: available at https://wwwnimbus.it.jyu.fi/
@@ -12,6 +8,12 @@ The Pareto optimal front using NSGA-III and a patch of the Pareto optimal front 
 [2] SOM toolbox [2]: available at http://www.cis.hut.fi/somtoolbox/about.shtml
 
 [3] An interpretable version of Self-Organizing Maps [3]
+
+The DTLZ-7 problem details and MCDM criteria along with Pareto-optimal solutions and NIMBUS points are provided in [4].
+
+The decision maker's criteria are provided on the NIMBUS toolbox to arrive at the MCDM solutions.
+
+The Pareto optimal front using NSGA-III and a patch of the Pareto optimal front obtained using R-NSGA-III are provided in .xlsx file. 
 
 ![GraphicalAbstract](https://github.com/deepanshuIITM/iSOM-NIMBUS/assets/137225940/ebf5553c-9cdf-4cda-b04a-6481451be450)
 
