@@ -1,5 +1,5 @@
 # iSOM-NIMBUS
-## Interactive Multi-criteria Decision-making on NIMBUS[1] technique using iSOM [4]
+## Interactive Multi-criteria Decision-making on NIMBUS[1] method using iSOM [4]
 
 ![DTLZ-7](https://github.com/deepanshuIITM/iSOM-NIMBUS/assets/137225940/3ee47f51-94eb-40e9-9417-aa0957757cf5)
 
