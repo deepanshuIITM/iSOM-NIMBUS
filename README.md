@@ -1,14 +1,6 @@
 # iSOM-NIMBUS
 ## Interactive Multi-criteria Decision-making on NIMBUS[1] method using iSOM [4]
 
-![DTLZ-7](https://github.com/deepanshuIITM/iSOM-NIMBUS/assets/137225940/3ee47f51-94eb-40e9-9417-aa0957757cf5)
-
-**Fig: MCMD using iSOM-NIMBUS on DTLZ-7 problem**
-
-![ColorCode](https://github.com/deepanshuIITM/iSOM-NIMBUS/assets/137225940/07b521a4-cadc-46ad-af26-91da0e10295f)
-
-**Fig: Color-code relevant to the NIMBUS points and properties of MCDM solutions**
-
 **Preliminary Requirements:**
 
 [1] NIMBUS toolbox [1]: available at https://wwwnimbus.it.jyu.fi/
@@ -22,6 +14,16 @@ The DTLZ-7 problem details and MCDM criteria along with Pareto-optimal solutions
 The decision maker's criteria are provided on the NIMBUS toolbox to arrive at the MCDM solutions.
 
 The Pareto optimal front using NSGA-III and a patch of the Pareto optimal front obtained using R-NSGA-III are provided in .xlsx file. 
+
+
+![DTLZ-7](https://github.com/deepanshuIITM/iSOM-NIMBUS/assets/137225940/3ee47f51-94eb-40e9-9417-aa0957757cf5)
+
+**Fig: MCMD using iSOM-NIMBUS on DTLZ-7 problem**
+
+![ColorCode](https://github.com/deepanshuIITM/iSOM-NIMBUS/assets/137225940/07b521a4-cadc-46ad-af26-91da0e10295f)
+
+**Fig: Color-code relevant to the NIMBUS points and properties of MCDM solutions**
+
 
 ![GraphicalAbstract](https://github.com/deepanshuIITM/iSOM-NIMBUS/assets/137225940/ebf5553c-9cdf-4cda-b04a-6481451be450)
 
