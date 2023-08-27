@@ -3,9 +3,9 @@
 
 **Preliminary Requirements:**
 
-[1] NIMBUS toolbox [1]: available at https://wwwnimbus.it.jyu.fi/
+[1] NIMBUS toolbox [1]: available at- https://wwwnimbus.it.jyu.fi/
 
-[2] SOM toolbox [2]: available at http://www.cis.hut.fi/somtoolbox/about.shtml
+[2] SOM toolbox [2]: available at- http://www.cis.hut.fi/somtoolbox/about.shtml
 
 [3] An interpretable version of Self-Organizing Maps [3]
 
