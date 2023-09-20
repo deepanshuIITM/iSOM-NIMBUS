@@ -194,20 +194,3 @@ som_show_add('hit',h2,'Markersize',1,'MarkerColor','g','EdgeColor','g','Subplot'
 som_show_add('hit',hit1,'Markersize',1,'MarkerColor','k','EdgeColor','k','Subplot',2:4);
 som_show_add('hit',hit2,'Markersize',1,'MarkerColor','m','EdgeColor','m','Subplot',2:4);
 som_show_add('hit',h_sol,'Markersize',1,'MarkerColor','r','EdgeColor','r','Subplot',2:4);
-
-% figure(9)
-% som_show(sMap_umatrix,'empty','Labels');
-% som_show_add('label',sMlabel.labels,'textsize',8,'textcolor','r','Subplot',1);
-
-%% cSOM+iSOM training
-% [sMap1,sTrain1] = som_batchtrain(sMap1,sData1,'sample_order','ordered','trainlen',200);
-% [sMap2,sTrain2] = som_batchtrain(sMap2,sData2,'sample_order','ordered','trainlen',200);
-% [sMap3,sTrain3] = som_batchtrain(sMap3,sData3,'sample_order','ordered','trainlen',200);
-
-%%
-% figure(10)
-% parallelcoords(F,'Labels',{'F1','F2','F3'},'LineWidth',2,'color','y'); hold on;
-% parallelcoords(start_p1,'Labels',{'F1','F2','F3'},'LineWidth',2,'color','b')
-% parallelcoords(alter,'Labels',{'F1','F2','F3'},'LineWidth',1,'color','g')
-% parallelcoords(post_cls,'Labels',{'F1','F2','F3'},'LineWidth',1.5,'color','m')
-% parallelcoords(alter(9,:),'Labels',{'F1','F2','F3'},'LineWidth',2,'color','k')
