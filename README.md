@@ -5,7 +5,13 @@
 
 [1] NIMBUS toolbox [1]: available at- https://wwwnimbus.it.jyu.fi/
 
-[2] SOM toolbox [2]: available at- http://www.cis.hut.fi/somtoolbox/about.shtml
+[2] SOM toolbox [2]: available at- http://www.cis.hut.fi/somtoolbox/about.shtml 
+
+[3] Interpretable version of Self-Organizing Maps [2,3]
+   
+   **Interpretable SOM toolbox is available here**-
+   
+   ***https://drive.google.com/drive/folders/1dLKlL_x2_MqT2PBEfnCIsyzYP4hGPl8I?usp=sharing*** 
 
 [3] An interpretable version of Self-Organizing Maps [3]
 
