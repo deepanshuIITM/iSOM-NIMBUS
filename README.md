@@ -45,11 +45,19 @@
 
 **References:**
 
-      [1]. Miettinen, K., Mäkelä, M.M., Synchronous Approach in Interactive Multiobjective Optimization, European Journal of Operational Research, 170(3), 909-922, 2006. Available via ScienceDirect. 
-            Implementation of NIMBUS in Python available in the DESDEO software framework, in IND-NIMBUS and in WWW-NIMBUS.
+      [1]. Yadav, D., Nagar, D., Ramu, P., & Deb, K. (2023). Visualization-aided multi-criteria decision-making using interpretable 
+           self-organizing maps. European Journal of Operational Research, 309(3), 1183-1200.
+           
+      [2]. Miettinen, K., Mäkelä, M.M., Synchronous Approach in Interactive Multiobjective Optimization, European Journal of Operational 
+           Research, 170(3), 909-922, 2006. Available via ScienceDirect. Implementation of NIMBUS in Python available in the DESDEO 
+           software framework, in IND-NIMBUS and in WWW-NIMBUS.
 
-      [2]. Guthikonda, S. M. (2005). Kohonen self-organizing maps. Wittenberg University, 98.
+      [3]. Guthikonda, S. M. (2005). Kohonen self-organizing maps. Wittenberg University, 98.
 
-      [3]. Thole, S. P., & Ramu, P. (2020). Design space exploration and optimization using self-organizing maps. Structural and Multidisciplinary Optimization, 62(3), 1071-1088.
+      [4]. Thole, S. P., & Ramu, P. (2020). Design space exploration and optimization using self-organizing maps. Structural and 
+           Multidisciplinary Optimization, 62(3), 1071-1088.
 
-      [4]. Yadav, D., Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference Direction Based Pareto Race. In 2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE.
+      [5]. Yadav, D., Ramu, P., & Deb, K. (2022, December). Visualization-aided Multi-criterion Decision-making Using Reference 
+           Direction Based Pareto Race. In 2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 125-132). IEEE.
+
+
